@@ -1,0 +1,146 @@
+21-Aug-2024 11:40:30.643 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 11:40:32.002 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 11:41:59.726 資訊 [http-nio-8083-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+21-Aug-2024 16:14:21.500 資訊 [Thread-3] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+21-Aug-2024 16:14:21.501 資訊 [Thread-3] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 16:14:29.826 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 16:14:31.197 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 16:20:35.290 資訊 [http-nio-8083-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+21-Aug-2024 16:24:55.227 資訊 [Thread-3] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+21-Aug-2024 16:24:55.227 資訊 [Thread-3] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 16:25:00.486 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 16:25:01.831 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 16:25:08.700 資訊 [http-nio-8083-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+21-Aug-2024 16:25:45.387 資訊 [Thread-3] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+21-Aug-2024 16:25:45.388 資訊 [Thread-3] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 16:25:50.060 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 16:25:51.366 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 16:26:02.239 資訊 [http-nio-8083-exec-6] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+21-Aug-2024 16:34:23.008 資訊 [Thread-3] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+21-Aug-2024 16:34:23.008 資訊 [Thread-3] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 16:34:27.902 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 16:34:29.238 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 16:40:00.181 資訊 [Thread-3] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 16:40:13.492 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 16:40:14.828 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 16:51:56.183 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 16:51:57.503 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 16:54:31.659 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 16:54:33.012 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 17:08:49.256 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 17:08:50.598 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 17:11:08.095 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 17:11:09.481 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 17:11:56.554 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 17:11:57.895 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 17:14:06.989 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 17:14:08.295 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 17:14:37.457 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 17:14:38.810 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 17:16:00.795 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 17:16:02.110 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 20:07:19.355 資訊 [Thread-4] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 20:07:30.239 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 20:07:31.563 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 20:10:50.252 資訊 [Thread-4] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 20:10:55.482 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 20:10:56.856 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 20:11:01.534 資訊 [http-nio-8083-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+21-Aug-2024 20:19:07.911 資訊 [Thread-4] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+21-Aug-2024 20:19:07.911 資訊 [Thread-4] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 20:19:14.429 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 20:19:15.733 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 20:19:21.962 資訊 [http-nio-8083-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+21-Aug-2024 20:34:14.454 資訊 [Thread-4] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+21-Aug-2024 20:34:14.454 資訊 [Thread-4] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 20:34:44.177 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 20:34:45.490 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 20:37:09.234 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 20:37:10.596 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 20:37:18.113 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 20:37:19.448 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 20:39:39.486 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 20:39:40.812 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 20:45:44.041 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 20:45:45.359 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 20:47:53.745 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 20:47:55.106 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 20:55:49.804 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 20:55:51.137 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 20:58:27.851 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 20:58:29.162 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 20:58:35.249 資訊 [http-nio-8083-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+21-Aug-2024 21:08:11.587 資訊 [Thread-5] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+21-Aug-2024 21:08:11.587 資訊 [Thread-5] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 21:16:50.831 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 21:16:52.344 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 21:17:31.952 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 21:17:33.441 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 21:18:26.275 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 21:18:27.778 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 21:20:14.850 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 21:20:16.392 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 21:20:57.522 資訊 [http-nio-8083-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+21-Aug-2024 21:21:49.427 資訊 [Thread-5] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+21-Aug-2024 21:21:49.427 資訊 [Thread-5] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 21:21:54.447 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 21:21:55.985 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 21:22:01.538 資訊 [http-nio-8083-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+21-Aug-2024 21:47:04.894 資訊 [Thread-5] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+21-Aug-2024 21:47:04.894 資訊 [Thread-5] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 21:47:10.077 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 21:47:11.659 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 21:47:44.664 資訊 [http-nio-8083-exec-5] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+21-Aug-2024 21:55:18.217 資訊 [Thread-6] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+21-Aug-2024 21:55:18.217 資訊 [Thread-6] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 21:55:23.388 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 21:55:24.901 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 21:55:56.667 資訊 [http-nio-8083-exec-3] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+21-Aug-2024 21:57:49.511 資訊 [Thread-6] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+21-Aug-2024 21:57:49.512 資訊 [Thread-6] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 21:57:54.816 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 21:57:56.407 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 21:59:27.640 資訊 [http-nio-8083-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+21-Aug-2024 22:01:53.709 資訊 [Thread-6] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+21-Aug-2024 22:01:53.710 資訊 [Thread-6] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 22:01:58.689 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 22:02:00.239 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 22:02:04.388 資訊 [http-nio-8083-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+21-Aug-2024 22:07:26.703 資訊 [Thread-6] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+21-Aug-2024 22:07:26.704 資訊 [Thread-6] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 22:07:31.706 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 22:07:33.319 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 22:07:36.987 資訊 [http-nio-8083-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+21-Aug-2024 22:11:52.492 資訊 [Thread-7] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+21-Aug-2024 22:11:52.492 資訊 [Thread-7] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 22:11:57.544 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 22:11:59.064 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 22:12:04.219 資訊 [http-nio-8083-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+21-Aug-2024 22:12:54.795 資訊 [Thread-7] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+21-Aug-2024 22:12:54.795 資訊 [Thread-7] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 22:13:00.075 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 22:13:01.727 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 22:13:07.381 資訊 [http-nio-8083-exec-4] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+21-Aug-2024 22:13:19.105 資訊 [Thread-7] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+21-Aug-2024 22:13:19.105 資訊 [Thread-7] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 22:13:24.674 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 22:13:26.340 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 22:13:30.758 資訊 [http-nio-8083-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+21-Aug-2024 22:14:07.016 資訊 [Thread-7] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+21-Aug-2024 22:14:07.017 資訊 [Thread-7] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 22:44:16.428 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 22:44:18.163 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 22:44:34.679 資訊 [Thread-7] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 22:44:39.435 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 22:44:41.152 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 22:44:45.612 資訊 [http-nio-8083-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+21-Aug-2024 22:45:07.665 資訊 [Thread-7] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+21-Aug-2024 22:45:07.665 資訊 [Thread-7] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 22:45:12.829 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 22:45:14.529 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 22:45:18.949 資訊 [http-nio-8083-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+21-Aug-2024 22:46:20.267 資訊 [Thread-7] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+21-Aug-2024 22:46:20.267 資訊 [Thread-7] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+21-Aug-2024 22:46:25.289 資訊 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+21-Aug-2024 22:46:26.997 資訊 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+21-Aug-2024 22:46:31.402 資訊 [http-nio-8083-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
